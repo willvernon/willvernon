@@ -1,6 +1,7 @@
-<div id="header" align="center" position="relative">
-  <img src="https://github.com/willvernon/Gifs/blob/main/starfield.gif" position="absolute" />
-  <span align="center"  ><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" /></span>
+
+<div style="position: relative; z-index: 1;">
+  <img src="https://github.com/willvernon/Gifs/blob/main/starfield.gif" style="position: absolute; z-index: 2;" />
+  <span id="overlay_text" style="position: relative; top: -10px; z-index: 3;"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" /></span>
 </div>
 
 <div id="badges">
