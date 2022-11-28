@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" z-index="20"/></div>
+  <div align="center" z-index="20" ><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" /></div>
   <img src="https://github.com/willvernon/Gifs/blob/main/starfield.gif" width="screen" z-index="10"/>
 </div>
 
