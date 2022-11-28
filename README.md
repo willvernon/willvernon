@@ -18,6 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=willvernon&style=flat-square&color=blue" alt=""/>
 </div>
 
+## My Stats
 <div align="center">
   
 [![Stats](https://github-readme-streak-stats.herokuapp.com?user=willvernon&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
