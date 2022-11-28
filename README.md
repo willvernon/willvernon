@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/willvernon/Gifs/blob/main/avatar.jpg" />
+  <img src="https://github.com/willvernon/Gifs/blob/main/avatar.jpg" width="100" />
 </div>
 
 <div id="badges">
