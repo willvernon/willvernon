@@ -25,9 +25,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=willvernon&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willvernon&show_icons=true&count_private=true&theme=react&hide=contribs)](https://github.com/willvernon/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willvernon&layout=compact&theme=react)](https://github.com/willvernon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willvernon&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @willvernon
 - 👀 I’m interested in ... Tech, Cars, Gym, Sports
