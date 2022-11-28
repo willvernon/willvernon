@@ -19,7 +19,7 @@
 
 
 <div id="header" align="center">
-  <img src="(https://github.com/willvernon/Gifs/blob/main/working.gif)" width="100"/>
+  <img src="https://github.com/willvernon/Gifs/blob/main/working.gif" width="100"/>
 </div>
 
 ### :fire: My Stats :
