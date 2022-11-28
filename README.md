@@ -11,15 +11,13 @@
     <img src="https://img.shields.io/badge/My_Website-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/My_Blog-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/My_Blog-00C7B7?style=for-the-badge&logo=Netlify&logoColor=black" alt="Netlify Badge"/>
   </a>
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=willvernon&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-### :fire: My Stats :
 <div align="center">
   
 [![Stats](https://github-readme-streak-stats.herokuapp.com?user=willvernon&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
