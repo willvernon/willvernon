@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" position="relative">
   <img src="https://github.com/willvernon/Gifs/blob/main/starfield.gif" style="position: absolute;" />
   <span align="center"  ><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" /></span>
 </div>
