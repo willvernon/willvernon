@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <div align="center" z-index="20" ><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" /></div>
-  <img src="https://github.com/willvernon/Gifs/blob/main/starfield.gif" width="screen" z-index="10"/>
+  <span align="center" z-index="20" ><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" /></span>
+  <img src="https://github.com/willvernon/Gifs/blob/main/starfield.gif" style="position: absolute;" z-index="10"/>
 </div>
 
 <div id="badges">
@@ -16,7 +16,8 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=willvernon&style=flat-square&color=blue" alt=""/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=willvernon&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=willvernon&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willvernon&show_icons=true&count_private=true&theme=react&hide=contribs)](https://github.com/willvernon/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willvernon&layout=compact&theme=react)](https://github.com/willvernon/github-readme-stats)
