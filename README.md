@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <span align="center" z-index="20" ><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" /></span>
-  <img src="https://github.com/willvernon/Gifs/blob/main/starfield.gif" style="position: absolute;" z-index="10"/>
+  <img src="https://github.com/willvernon/Gifs/blob/main/starfield.gif" style="position: absolute;" />
+  <span align="center"  ><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" /></span>
 </div>
 
 <div id="badges">
