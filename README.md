@@ -1,7 +1,6 @@
 
-<div style="position: relative; z-index: 1;">
-  <img src="https://github.com/willvernon/Gifs/blob/main/starfield.gif" style="position: absolute; z-index: 2;" />
-  <span id="overlay_text" style="position: relative; top: -10px; z-index: 3;"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" /></span>
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/willvernon/Gifs/blob/main/working.gif)" width="100"/>
 </div>
 
 <div id="badges">
@@ -14,8 +13,14 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=willvernon&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=willvernon&style=flat-square&color=blue" alt=""/>
+
+
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/willvernon/Gifs/blob/main/working.gif)" width="100"/>
+</div>
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=willvernon&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
