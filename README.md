@@ -29,7 +29,7 @@
 - 👋 Hi, I’m @willvernon
 - 👀 I’m interested in ... Tech, Cars, Gym, Sports
 - 🌱 I’m currently learning ... Mandarin
-- 📫 How to reach me ... vernondesign@proton.me
+- 📫 How to reach me ... will@vernondev.com
 
 <!---
 willvernon/willvernon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
