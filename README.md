@@ -10,9 +10,7 @@
   <a href="https://www.vernondev.com">
     <img src="https://img.shields.io/badge/My_Website-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/My_Blog-00C7B7?style=for-the-badge&logo=Netlify&logoColor=black" alt="Netlify Badge"/>
-  </a>
+
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=willvernon&style=flat-square&color=blue" alt=""/>
