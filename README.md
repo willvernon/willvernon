@@ -10,6 +10,10 @@
   <a href="https://www.vernondev.com">
     <img src="https://img.shields.io/badge/My_Website-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/>
   </a>
+  </div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=willvernon&style=flat-square&color=blue" alt=""/>
+</div>
 
   # My Stats
 <div align="center">
@@ -19,10 +23,6 @@
 
 </div>
 
-</div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=willvernon&style=flat-square&color=blue" alt=""/>
-</div>
 
 https://github.com/Digital-Craftsmen
 
