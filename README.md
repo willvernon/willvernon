@@ -11,6 +11,14 @@
     <img src="https://img.shields.io/badge/My_Website-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/>
   </a>
 
+  # My Stats
+<div align="center">
+
+[![Stats](https://github-readme-streak-stats.herokuapp.com?user=willvernon&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willvernon&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=willvernon&style=flat-square&color=blue" alt=""/>
